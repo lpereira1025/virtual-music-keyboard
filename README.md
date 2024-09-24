@@ -9,7 +9,7 @@
 - [📌 Créditos](#-Créditos)
 
 ## 📖 Sobre
-Projeto desenvolvido durante o Bootcamp [Potência Tech iFood - Desenvolvimento de Jogos](https://web.dio.me/track/potencia-tech-ifood-desenvolvimento-de-jogos) com o professor [Felipe Aguiar](https://github.com/felipeAguiarCode). O objetivo desse projeto é desenvolver um simulador de piano totalmente funcional, utilizando apenas HTML, CSS e Javascript.
+Projeto desenvolvido durante o Bootcamp com o professor [Felipe Aguiar](https://github.com/felipeAguiarCode). O objetivo desse projeto é desenvolver um simulador de piano totalmente funcional, utilizando apenas HTML, CSS e Javascript.
 
 ## 🚀 Tecnologias utilizadas
 
